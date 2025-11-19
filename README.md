@@ -34,7 +34,7 @@ A powerful AI-powered tweet generator built with Python, Streamlit, and Google's
 
 ## 🌐 Try the App
 
-**Live Demo**: [https://tweetgenerationaiapp.streamlit.app/](https://tweetgenerationaiapp.streamlit.app/)
+**Live Demo**: <a href="https://tweetgenerationaiapp.streamlit.app/" target="_blank">https://tweetgenerationaiapp.streamlit.app/</a>
 
 Click the link above to access the deployed application on Streamlit Cloud. No installation required!
 
