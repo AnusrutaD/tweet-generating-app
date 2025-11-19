@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_extras.badges import badge
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import PromptTemplate
 import os
@@ -33,8 +32,6 @@ tweet_template.format(number = 7, topic = "Submarine")
 tweet_chain = tweet_prompt | gemini_model
 # response = tweet_chain.invoke({"number": 5, "topic": "War in Middle East"})
 
-badge(type="twitter", name="AnusrutaDutta")
-badge(type="github", name="AnusrutaD")
 st.header("🐦 Tweet Generator")
 
 st.subheader("Generate Tweets using generative AI 🤖")
