@@ -1,4 +1,4 @@
-langchain
-langchain-openai
-langchain-google-genai
-streamlit
+langchain==0.1.0
+langchain-openai==0.0.3
+langchain-google-genai==0.0.1
+streamlit==1.27.0
