@@ -5,6 +5,8 @@ A powerful AI-powered tweet generator built with Python, Streamlit, and Google's
 ## 📋 Table of Contents
 
 - [Features](#features)
+- [Try the App](#try-the-app)
+- [Preview](#preview)
 - [Technologies Used](#technologies-used)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -30,6 +32,17 @@ A powerful AI-powered tweet generator built with Python, Streamlit, and Google's
 - **User-Friendly Interface**: Built with Streamlit for an intuitive web-based experience
 - **Social Media Integration**: Direct links to Twitter and GitHub profiles
 
+## 🌐 Try the App
+
+**Live Demo**: [https://tweetgenerationaiapp.streamlit.app/](https://tweetgenerationaiapp.streamlit.app/)
+
+Click the link above to access the deployed application on Streamlit Cloud. No installation required!
+
+## 📸 Preview
+
+The application features a clean and intuitive interface:
+
+![alt text](image.png)
 ## 🛠️ Technologies Used
 
 - **Python 3.11**: Core programming language
